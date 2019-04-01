@@ -1,0 +1,6 @@
+framework module Pods_PockemonUITests {
+  umbrella header "Pods-PockemonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
