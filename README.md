@@ -11,7 +11,8 @@
 ## Install
 
 ```sh
-npm install
+pod install GoogleMaps
+pod install GooglePlaces
 ```
 
 ## Author
